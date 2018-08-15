@@ -1,0 +1,6 @@
+[submodule "themes/hexo-theme-dxx"]
+	path = themes/hexo-theme-dxx
+	url = https://github.com/fuzhouxxdong/hexo-theme-dxx
+[submodule "themes/themes/hexo-theme-dxx"]
+	path = themes/themes/hexo-theme-dxx
+	url = https://github.com/fuzhouxxdong/hexo-theme-dxx
